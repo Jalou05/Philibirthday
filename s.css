@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f6f6f6;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+h1 {
+    color: black;
+    font-weight: bold;
+}
+
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    position: fixe;
+    bottom: 0;
+    width: 100%;
+}
+
+img {
+    width: 75%;
+    margin-top: 25px; 
+}
